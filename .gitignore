@@ -1,0 +1,12 @@
+node_modules
+.pnpm-store
+*.log
+
+# VuePress 构建产物与缓存
+docs/.vuepress/dist
+docs/.vuepress/.cache
+docs/.vuepress/.temp
+
+# 编辑器
+.DS_Store
+.idea
